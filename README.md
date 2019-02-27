@@ -6,3 +6,5 @@
 2.播放视频
 
 使用AVPlayerViewController实现：本地选择视频/拍摄视频的播放，网络资源视频的播放
+
+3.test
