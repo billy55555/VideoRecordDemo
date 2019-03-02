@@ -7,3 +7,11 @@
 
 使用AVPlayerViewController实现：本地选择视频/拍摄视频的播放，网络资源视频的播放
 
+<<<<<<< HEAD
+=======
+3.test
+4.test
+5.test
+6.test
+7.test...
+>>>>>>> 72cc95426cb8cb3917f9f0ca58356facdb6f29ad
